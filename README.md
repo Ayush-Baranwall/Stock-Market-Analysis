@@ -32,7 +32,7 @@ git clone https://github.com/Ayush-Baranwall/stock-market-analysis.git
 
 cd stock-market-analysis
 
-    Run the code:
+## Run the code:
 
 python analysis.py
 
