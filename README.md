@@ -1,3 +1,32 @@
+# Problem Statement: Stock Analysis and Visualization
+
+## The task is to analyze and visualize the historical stock data of a particular company. The goal is to gain insights into the stock's price movements, distribution, volatility, normality assumption, and autocorrelation patterns.
+
+## Dataset: The historical daily stock data for a specific company is available from "2015-03-15" to "2020-09-10" with a daily interval. The dataset includes the closing prices of the stock.
+
+## Objectives:
+
+    Retrieve the historical stock data and plot the stock prices over time.
+    Calculate and analyze the daily returns of the stock.
+    Compute descriptive statistics, including mean, standard deviation, quantiles, skewness, and kurtosis of the returns.
+    Visualize the distribution of returns using a histogram.
+    Compare the empirical quantiles of the returns against the quantiles of a normal distribution using a quantile-quantile (Q-Q) plot.
+    Plot the daily returns over time to observe any trends or patterns.
+    Analyze the volatility of the returns by plotting the rolling standard deviation.
+    Examine the autocorrelation structure of the returns using the partial autocorrelation function (PACF) plot.
+
+## Deliverables:
+
+    Line plot showing the stock prices over time.
+    Boxplot illustrating the distribution of daily returns.
+    Descriptive statistics summary for the returns, including mean, standard deviation, quantiles, skewness, and kurtosis.
+    Histogram showcasing the distribution of returns.
+    Quantile-Quantile (Q-Q) plot comparing the empirical quantiles of the returns against the quantiles of a normal distribution.
+    Line plot displaying the daily returns over time.
+    Line plot representing the rolling standard deviation of the returns.
+    Partial autocorrelation function (PACF) plot for analyzing the autocorrelation structure of the returns.
+
+These deliverables will provide valuable insights into the stock's historical performance and characteristics, helping the investment firm make informed decisions and develop investment strategies.
 # Stock Market Analysis
 
 This repository contains code for performing stock market analysis using Python. The code fetches historical stock data from Yahoo Finance, calculates various statistical properties, and visualizes the results. The analysis focuses on the stock with ticker symbol 'GOOG' (Google) within a specific date range.
@@ -24,17 +53,7 @@ Prerequisites
 
 pip install -r requirements.txt
 
-## Clone the repository:
-
-git clone https://github.com/Ayush-Baranwall/stock-market-analysis.git
-
-## Change into the repository directory:
-
-cd stock-market-analysis
-
-## Run the code:
-
-python analysis.py
+## You can execute this in a local server through Jupyter notebook
 
 The code will fetch the historical stock data for 'GOOG' within the specified date range and interval. It will then calculate various statistical properties such as mean, standard deviation, skewness, kurtosis, and perform hypothesis tests. Finally, it will generate plots to visualize the data and results.
 Results
