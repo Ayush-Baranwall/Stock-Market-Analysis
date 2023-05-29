@@ -1,8 +1,8 @@
 # Problem Statement: Stock Analysis and Visualization
 
-## The task is to analyze and visualize the historical stock data of a particular company. The goal is to gain insights into the stock's price movements, distribution, volatility, normality assumption, and autocorrelation patterns.
+## The task is to analyze and visualize the historical stock data of google stocks. The goal is to gain insights into the stock's price movements, distribution, volatility, normality assumption, and autocorrelation patterns.
 
-## Dataset: The historical daily stock data for a specific company is available from "2015-03-15" to "2020-09-10" with a daily interval. The dataset includes the closing prices of the stock.
+## Dataset: The historical daily stock data for google is available from "2015-03-15" to "2020-09-10" with a daily interval. The dataset includes the closing prices of the stock.
 
 ## Objectives:
 
