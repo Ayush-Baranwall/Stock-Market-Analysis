@@ -68,10 +68,7 @@ Results
     A plot of the 20-day rolling standard deviation of the returns.
     A plot of the partial autocorrelation function (PACF) of the returns.
 
-The code also provides summary statistics such as the mean, standard deviation, median, skewness, and kurtosis of the returns.
-Contributing
-
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-License
+## License
 
 This project is licensed under the MIT License.
