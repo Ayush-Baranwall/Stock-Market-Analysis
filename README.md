@@ -2,7 +2,7 @@
 
 ## The task is to analyze and visualize the historical stock data of google stocks. The goal is to gain insights into the stock's price movements, distribution, volatility, normality assumption, and autocorrelation patterns.
 
-## Dataset: The historical daily stock data for google is available from "2015-03-15" to "2020-09-10" with a daily interval. The dataset includes the closing prices of the stock.
+## Dataset: The historical daily stock data for google is available from "2004" to "2023" with a daily interval but we have only included the data from 2015 to 2020 as google launched various products and due to this the stock prices enourmously increased but in 2020 it closed a lot of products and eventually prices fell. The dataset also includes the closing prices of the stock.
 
 ## Objectives:
 
