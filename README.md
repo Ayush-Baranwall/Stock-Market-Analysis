@@ -29,7 +29,7 @@
 These deliverables will provide valuable insights into the stock's historical performance and characteristics, helping the investment firm make informed decisions and develop investment strategies.
 # Stock Market Analysis
 
-This repository contains code for performing stock market analysis using Python. The code fetches historical stock data from Yahoo Finance, calculates various statistical properties, and visualizes the results. The analysis focuses on the stock with ticker symbol 'GOOG' (Google) within a specific date range.
+This repository contains code for performing stock market analysis using Python. The code fetches historical stock data from Yahoo Finance, calculates various statistical properties, and visualizes the results. The analysis focuses on the stock with ticker symbol 'GOOG' (Google) within a specific date range of 2015 - 2020.
 Prerequisites
 
 ## To run the code in this repository, you need to have the following dependencies installed:
