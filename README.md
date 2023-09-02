@@ -1,6 +1,5 @@
 # Problem Statement: Stock Analysis and Visualization
-
-## The task is to analyze and visualize the historical stock data of google stocks. The goal is to gain insights into the stock's price movements, distribution, volatility, normality assumption, and autocorrelation patterns.
+## Given historical daily closing prices for Google (GOOG) stock from March 15, 2015, to September 10, 2020, the goal is to perform a comprehensive analysis of the stock's returns and statistical properties.
 
 ## Dataset: The historical daily stock data for google is available from "2004" to "2023" with a daily interval but we have only included the data from 2015 to 2020 as google launched less products and due to this the stock prices enourmously decreased but in 2020 as google launched meet and because of the pandemic people started using it a lot and due to this it's share price increased a lot.
 
@@ -14,6 +13,7 @@
     Plot the daily returns over time to observe any trends or patterns.
     Analyze the volatility of the returns by plotting the rolling standard deviation.
     Examine the autocorrelation structure of the returns using the partial autocorrelation function (PACF) plot.
+    Compute the 20-day rolling standard deviation of daily returns and visualize it over time.
 
 ## Deliverables:
 
